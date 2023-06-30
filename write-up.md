@@ -1,0 +1,6 @@
+The Sudoku, Notes, and YouTube Search Bar widgets are good additions to your planner app due to their functionality and versatility. Each widget serves a different purpose and provides different tools to enhance the user's scheduling experience.
+
+Sudoku widgets provide a fun and engaging way to rest and unwind during your planning sessions. It offers a grid-based puzzle game that allows users to train their logic and problem-solving skills.
+The Notes widget is an essential tool for organizing and jotting down important information, ideas, and reminders. Users can create and save notes in the planner app so all their thoughts and to-do lists are easily accessible. The Notes widget allows users to maintain a centralized digital repository of their thoughts so they can easily search and refer to them when needed.
+
+The YouTube Search Bar Widget adds multimedia functionality to your planner app. Users can search and watch her YouTube videos directly within the app. This widget helps you access educational content, tutorials, or inspirational videos on planning, productivity, and other related topics. This allows users to find visual and audio resources that can complement the planning process and provide additional insight and motivation.
